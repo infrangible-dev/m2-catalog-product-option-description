@@ -1,11 +1,18 @@
 {
     "name": "infrangible/m2-catalog-product-option-description",
-    "description": "Infrangible Magento 2 Catalog Product Option Description",
+    "description": "Adds short explanatory texts to custom options and their values, plus an introduction text above all options of a product, shown on the product page.",
     "type": "magento2-module",
     "version": "1.1.2",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Product options",
+        "Content",
+        "custom option descriptions",
+        "help text for product options",
+        "option value descriptions"
     ],
     "homepage": "https://github.com/infrangible-dev/m2-catalog-product-option-description",
     "authors": [
